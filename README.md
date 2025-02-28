@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there! 👋  
 
-<!--
-**yn-yn/yn-yn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Yining (Elaine) Xia**, an **Electrical Engineering student at UPenn** with a passion for **embedded systems** and **firmware development**.  
 
-Here are some ideas to get you started:
+### 🔧 What I'm Into  
+- 🛠️ **Embedded Systems & Firmware** – Love diving deep into low-level programming.  
+- 🎮 **Video Games** – Big fan of **Overcooked, Satisfactory, Risk of Rain, Splatoon,** and **Animal Crossing**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡ Fun Fact  
+I once planned to visit a friend in **the Netherlands**, but somehow ended up in **Belgium** instead. 🤦‍♀️  
+
+### 📊 GitHub Stats  
+![Yn's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)  
