@@ -10,4 +10,4 @@ I'm **Yining (Elaine) Xia**, an **Electrical Engineering student at UPenn** with
 I once planned to visit a friend in **the Netherlands**, but somehow ended up in **Belgium** instead. 🤦‍♀️  
 
 ### 📊 GitHub Stats  
-![Yn's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)  
+![Yn's GitHub stats](https://github-readme-stats.vercel.app/api?username=yn-yn&show_icons=true&theme=transparent)  
